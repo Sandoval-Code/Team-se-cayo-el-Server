@@ -1,0 +1,20 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TeamSeCayoElServer", "src\TeamSeCayoElServer\TeamSeCayoElServer.csproj", "{A1B2C3D4-E5F6-7890-G1H2-I3J4K5L6M7N8}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TeamSeCayoElServer.Tests", "src\TeamSeCayoElServer.Tests\TeamSeCayoElServer.Tests.csproj", "{B2C3D4E5-F6G7-8901-H2I3-J4K5L6M7N8O9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C3D4E5F6-G7H8-9012-I3J4-K5L6M7N8O9P0}
+	EndGlobalSection
+EndGlobal
